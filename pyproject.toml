@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "edhub"
+version = "0.1.0"
+description = ""
+authors = ["raju-2003 <2003braj@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.26.0"
+langchain = "^0.0.285"
+openai = "^0.28.0"
+speechrecognition = "^3.10.0"
+pydub = "^0.25.1"
+pysoundfile = "^0.9.0.post1"
+googletrans = "4.0.0-rc1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

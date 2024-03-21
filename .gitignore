@@ -1,0 +1,7 @@
+# Ignore environment folder
+venv/
+env/
+myenv/
+
+# Ignore secrets.toml file inside .streamlit folder
+.streamlit/secrets.toml
