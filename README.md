@@ -1,4 +1,4 @@
-#Edhub#
+##Edhub##
 
 Edhub is a versatile educational platform designed to empower learners with various tools and resources for self-learning, mentor guidance, skill testing, and more. It offers a user-friendly interface and integrates cutting-edge technologies to enhance the learning experience.
 
